@@ -1,0 +1,8 @@
+#yamphones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#yphones{
+    font-size: 70px;
+}
